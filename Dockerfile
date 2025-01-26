@@ -24,3 +24,4 @@ EXPOSE 3000
 
 # Command to start the app
 CMD ["npx", "serve", "-s", "build"]
+
